@@ -31,7 +31,6 @@ This dashboard allows node operators (or anyone) to quickly check the health and
 
 ## 🛠 Built With
 
-- [Lovable](https://lovable.dev) – No-code/low-code platform for building beautiful web apps instantly
 - React + Vite (under the hood)
 - Direct integration with CARV public APIs & blockchain queries
 
