@@ -12,18 +12,16 @@ CARV is the largest modular data layer for gaming and AI, where community-run **
 This dashboard allows node operators (or anyone) to quickly check the health and status of their CARV Verifier Node(s) without needing to parse logs or query the blockchain manually.
 
 ## 🔗 How It Uses CARV SVM Chain
-The dashboard reads live on-chain data directly from the CARV SVM (Solana Virtual Machine) Layer 2 chain a high-performance, AI-agentic blockchain settled on Ethereum.
+The dashboard reads live on-chain data directly from the CARV SVM Layer 2 chain a high-performance, AI-agentic blockchain settled on Ethereum.
 Data Flow:
 
-- 1 User inputs a wallet address or node ID.
-- 2 App queries CARV SVM Chain via public RPC endpoints
-- 3 Fetches verifier node state from on-chain smart contracts
-- 4 Cross-references with Ethereum settlement layer (if needed) for finality
-- 5 Renders real time health status and trends all client-side
+- 1 - User inputs a wallet address or node ID.
+- 2 - App queries CARV SVM Chain via public RPC endpoints
+- 3 - Fetches verifier node state from on-chain smart contracts
+- 4 - Cross-references with Ethereum settlement layer (if needed) for finality
+- 5 - Renders real time health status and trends all client-side
 
-No backend. No API keys. No data indexing.
-Pure on-chain truth from CARV SVM
-
+No backend. No API keys. No data indexing. Pure on-chain truth from CARV SVM
 This ensures transparency and lets operators verify their node is actively securing the network.
 
 ## ✨ Features
