@@ -1,6 +1,5 @@
 # CARV Node Health Checker - Web3 Dashboard
 
-[![Edit with Lovable](https://lovable.dev/badge.svg)](https://lovable.dev)
 
 Live Demo: https://carv-node-health-watch.lovable.app/
 
