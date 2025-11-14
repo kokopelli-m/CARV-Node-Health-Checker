@@ -21,8 +21,8 @@ Data Flow:
 - 4 - Cross-references with Ethereum settlement layer (if needed) for finality
 - 5 - Renders real time health status and trends all client-side
 
->> *No backend. No API keys. No data indexing. Pure on-chain truth from CARV SVM*
-*This ensures transparency and lets operators verify their node is actively securing the network.*
+> *No backend. No API keys. No data indexing. Pure on-chain truth from CARV SVM*
+> *This ensures transparency and lets operators verify their node is actively securing the network.*
 
 ## ✨ Features
 
