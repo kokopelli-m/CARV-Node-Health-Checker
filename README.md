@@ -57,4 +57,4 @@ This project is open-source and available under the MIT License.
 
 Made with ❤️ for the CARV Community by Kokopelli 
 
-Feel free to open issues or contribute improvements!
+Feel free to contact to open issues or contribute improvements!
